@@ -1,4 +1,5 @@
 # Dasshio - Amazon Dash Buttons Hass.io add-on
+Patched for latest HA addon schema (requires arch)
 
 [Hass.io add-on](https://home-assistant.io/addons/) to use [Amazon Dash Buttons](https://en.wikipedia.org/wiki/Amazon_Dash) in [Home Assistant](https://home-assistant.io).
 
