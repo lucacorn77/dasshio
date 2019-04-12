@@ -4,7 +4,7 @@
   "arch": ["armv7"],
   "slug": "dasshio",
   "description": "Use Amazon Dash Buttons in Home Assistant",
-  "url": "https://github.com/lucacorn77/dasshio",
+  "url": "https://github.com/danimtb/dasshio",
   "startup": "services",
   "boot": "auto",
   "host_network": true,
